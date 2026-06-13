@@ -1,0 +1,10 @@
+📋 Requirements
+
+- Python 3.x
+- Tkinter (for GUI version only)
+- Operating System: Windows, Linux, or macOS
+- Code Editor (VS Code, PyCharm, or any Python IDE)
+
+📦 Required Libraries
+
+This project uses Python's built-in libraries, so no additional installation is required.
